@@ -1,0 +1,17 @@
+# Executables
+*.out
+fdf
+fdf_linux
+
+
+# Archives
+*.tgz
+
+
+# Maps
+maps
+
+
+# mlx
+minilibx-linux
+minilibx
