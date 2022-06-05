@@ -12,6 +12,15 @@ fdf_linux
 maps
 
 
+# compiled
+*.a
+
+# objects
+*.o
+
 # mlx
 minilibx-linux
 minilibx
+
+# miscalleanous
+compilation_command
